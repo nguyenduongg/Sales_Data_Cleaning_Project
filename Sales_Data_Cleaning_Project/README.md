@@ -1,6 +1,6 @@
 # Sales_Data_Cleaning_Project
 Làm sạch dữ liệu bán hàng mô phỏng của Nike/ Clean up Nike's simulated sales data.
-# [TÊN DỰ ÁN] Nike's Simulated Sales Data Cleaning & Analysis
+# Nike's Simulated Sales Data Cleaning & Analysis
 
 ## 1. Mục tiêu (Objective)
 Dự án này tập trung vào việc xử lý và làm sạch bộ dữ liệu bán lẻ (Retail Sales) chứa nhiều lỗi định dạng, giá trị rỗng và lỗi logic kinh doanh, nhằm chuẩn bị dữ liệu sạch phục vụ cho việc phân tích doanh thu và xu hướng bán hàng.
